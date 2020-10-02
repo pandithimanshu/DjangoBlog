@@ -3,4 +3,4 @@
 # Django Blog
 A  Simple Blog Using Django Web Framework
 
- * [RdxBlogg](https://rdxblogg.herokuapp.com/) - Click Here To See Demo
+ * [DjangoBlog](https://rdxblogg.herokuapp.com/) - Click Here To See Demo
