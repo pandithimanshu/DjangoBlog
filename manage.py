@@ -4,6 +4,7 @@ import os
 import sys
 
 
+#not edit something in this
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_blog.settings')
     try:
